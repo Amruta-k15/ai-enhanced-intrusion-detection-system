@@ -200,6 +200,4 @@ User Input  ──►  Flask POST /predict  ──►  Feature Array
 
 ---
 
-## 👨‍💻 Developed By
 
-**Mohseen Attar**
